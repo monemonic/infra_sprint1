@@ -1,0 +1,6 @@
+IP:158.160.10.48;
+name_taski: https://homeworkenkorolev.zapto.org;
+name_kittygram: https://kitty.itkomi11.ru;
+login: korolev;
+password: 143825;
+ 
